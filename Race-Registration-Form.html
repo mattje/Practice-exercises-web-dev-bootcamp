@@ -1,0 +1,66 @@
+<!-- Race Registration example form -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Race Registration</title>
+</head>
+
+<body>
+    <h1>Race Registration!</h1>
+
+<form action="/register">
+
+    <!-- Input Name -->
+<div>
+    <label for="firstname">First Name</label>
+    <input type="text" name="" id="firstname" required>
+    <label for="lastname">Last Name</label>
+    <input type="text" name="" id="lastname" required>
+</div>
+
+<!-- Select Race -->
+<p>Select a Race:</p>
+<div>
+    <input type="radio" name="race-type" id="funrun" value="funrun 5k">
+    <label for="funrun">Fun Run 5k</label>
+</div>
+<div>
+    <input type="radio" name="race-type" id="half" value="half marathon">
+    <label for="half">Half Marathon</label>
+</div>
+<div>
+    <input type="radio" name="race-type" id="full" value="full marathon">
+    <label for="full">Full Marathon</label>
+</div>
+
+<!-- Register an account with email and password -->
+<div>
+    <label for="email">Email</label>
+    <input type="text" name="" id="email" required>
+    <label for="password">Password</label>
+    <input type="password" name="" id="password" required>
+</div>
+
+<!-- Select age group -->
+<label for="division">Select Age Group</label>
+<select name="division" id="division" required>
+    <option value="kids">under 18</option>
+    <option value="young-adult">19-29</option>
+    <option value="adult">30-49</option>
+    <option value="senior">50+</option>
+</select>
+
+</select>
+
+<!-- Submit form -->
+<div>
+    <button type="submit">Register!</button>
+</div>
+
+
+</form>
+</body>
+</html>

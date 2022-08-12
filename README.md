@@ -1,18 +1,19 @@
-These are my own practice exercises while taking this course on Udemy: https://www.udemy.com/course/the-web-developer-bootcamp/
+## These are my own projects and practice exercises while working through a [web development bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) on Udemy
 
-gh-pages sites for each exercise and project:
+### <ins>Links for each exercise and project</ins>
 
-Projects:
-https://mattje.github.io/Practice-exercises-web-dev-bootcamp/Section-11/pricing-panel.html 
+### Projects:
+- [Section-11/pricing-panel](https://mattje.github.io/Practice-exercises-web-dev-bootcamp/Section-11/pricing-panel.html)
 
-Exercises:
-https://mattje.github.io/Practice-exercises-web-dev-bootcamp/Section-05/Race-Registration-Form.html
-https://mattje.github.io/Practice-exercises-web-dev-bootcamp/Section-07/basic-selectors.html
-https://mattje.github.io/Practice-exercises-web-dev-bootcamp/Section-07/checkerboard.html
-https://mattje.github.io/Practice-exercises-web-dev-bootcamp/Section-07/descendant-combinator.html
-https://mattje.github.io/Practice-exercises-web-dev-bootcamp/Section-07/hipster-logo.html
-https://mattje.github.io/Practice-exercises-web-dev-bootcamp/Section-08/box-model.html
-https://mattje.github.io/Practice-exercises-web-dev-bootcamp/Section-09/hover-button.html 
-https://mattje.github.io/Practice-exercises-web-dev-bootcamp/Section-09/photo-blog.html
-https://mattje.github.io/Practice-exercises-web-dev-bootcamp/Section-10/mediaqueries.html
+### Exercises:
+- [Section-05/Race-Registration-Form](https://mattje.github.io/Practice-exercises-web-dev-bootcamp/Section-05/Race-Registration-Form.html)
+- [Section-07/basic-selectors](https://mattje.github.io/Practice-exercises-web-dev-bootcamp/Section-07/basic-selectors.html)
+- [Section-07/checkerboard](https://mattje.github.io/Practice-exercises-web-dev-bootcamp/Section-07/checkerboard.html)
+- [Section-07/descendant-combinator](https://mattje.github.io/Practice-exercises-web-dev-bootcamp/Section-07/descendant-combinator.html)
+- [Section-07/hipster-logo](https://mattje.github.io/Practice-exercises-web-dev-bootcamp/Section-07/hipster-logo.html)
+- [Section-07/box-model](https://mattje.github.io/Practice-exercises-web-dev-bootcamp/Section-08/box-model.html)
+- [Section-07/hover-button](https://mattje.github.io/Practice-exercises-web-dev-bootcamp/Section-09/hover-button.html) 
+- [Section-07/photo-blog](https://mattje.github.io/Practice-exercises-web-dev-bootcamp/Section-09/photo-blog.html)
+- [Section-07/mediaqueries](https://mattje.github.io/Practice-exercises-web-dev-bootcamp/Section-10/mediaqueries.html)
+
 

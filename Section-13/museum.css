@@ -13,6 +13,25 @@ body {
     background-color: #b09e99;
 }
 
+.blurb {
+    font-weight: 200;
+}
+
+.blurb h2 {
+    color: #FEE9E1;
+}
+
+.blurb p {
+    color: #FAD4C0;
+    font-size: 1.4rem;
+    line-height: 1.6;
+}
+
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
 #mainNavbar {
     background-color: #FEE9E1;
     font-family: "Rubik Distressed", sans-serif;
@@ -34,22 +53,42 @@ body {
 }
 
 section {
-    padding-top: 3.4rem;
     padding-right: 0;
     font-family: Nunito, sans-serif;
     color: black;
 }
 
+.top-content {
+    padding-top: 3.8rem;
+}
+
 #headingGroup h1 {
-    font-size: 3rem;
+    font-size: 2.85rem;
 }
 
 #headingGroup span {
     color: #C0FDFB;
 }
 
-@media (max-width: 1200px) {
+#mainNavbar.scrolled {
+    background-color: #C0FDFB;
+    transition: background 500ms;
+}
+
+@media (max-width: 1280px) {
     #headingGroup h1 {
         font-size: 2.5rem;
+    }
+    .blurb p {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 1024px) {
+    #headingGroup h1 {
+        font-size: 2rem;
+    }
+    .blurb p {
+        font-size: 1rem;
     }
 }

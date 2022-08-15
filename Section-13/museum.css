@@ -1,0 +1,55 @@
+/* 
+    Google fonts:
+
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Rubik Dirt', cursive;
+    font-family: 'Rubik Distressed', cursive;
+
+    color palette: https://coolors.co/palette/b09e99-fee9e1-fad4c0-64b6ac-c0fdfb
+*/
+
+body {
+    background-color: #b09e99;
+}
+
+#mainNavbar {
+    background-color: #FEE9E1;
+    font-family: "Rubik Distressed", sans-serif;
+    font-size: 1.8rem;
+    font-weight: 100;
+}
+
+#mainNavbar .navbar-brand {
+    color: #64B6AC;
+    font-size: 1.8rem;
+}
+
+#mainNavbar .nav-link {
+    color: #FAD4C0;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #64B6AC
+}
+
+section {
+    padding-top: 3.4rem;
+    padding-right: 0;
+    font-family: Nunito, sans-serif;
+    color: black;
+}
+
+#headingGroup h1 {
+    font-size: 3rem;
+}
+
+#headingGroup span {
+    color: #C0FDFB;
+}
+
+@media (max-width: 1200px) {
+    #headingGroup h1 {
+        font-size: 2.5rem;
+    }
+}

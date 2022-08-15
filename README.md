@@ -3,7 +3,7 @@
 ### <ins>Links for each exercise and project</ins>
 
 ### Projects:
-- [Section-11/pricing-panel](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-11/pricing-panel.html)
+- [Section-11/pricing-panel](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-11/pricing-panel.html) - Responsive pricing panel using flexbox
 
 ### Exercises:
 - [Section-05/Race-Registration-Form](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-05/Race-Registration-Form.html)

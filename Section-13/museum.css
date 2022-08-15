@@ -1,0 +1,94 @@
+/* 
+    Google fonts:
+
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Rubik Dirt', cursive;
+    font-family: 'Rubik Distressed', cursive;
+
+    color palette: https://coolors.co/palette/b09e99-fee9e1-fad4c0-64b6ac-c0fdfb
+*/
+
+body {
+    background-color: #b09e99;
+}
+
+.blurb {
+    font-weight: 200;
+}
+
+.blurb h2 {
+    color: #FEE9E1;
+}
+
+.blurb p {
+    color: #FAD4C0;
+    font-size: 1.4rem;
+    line-height: 1.6;
+}
+
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#mainNavbar {
+    background-color: #FEE9E1;
+    font-family: "Rubik Distressed", sans-serif;
+    font-size: 1.8rem;
+    font-weight: 100;
+}
+
+#mainNavbar .navbar-brand {
+    color: #64B6AC;
+    font-size: 1.8rem;
+}
+
+#mainNavbar .nav-link {
+    color: #FAD4C0;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #64B6AC
+}
+
+section {
+    padding-right: 0;
+    font-family: Nunito, sans-serif;
+    color: black;
+}
+
+.top-content {
+    padding-top: 3.8rem;
+}
+
+#headingGroup h1 {
+    font-size: 2.85rem;
+}
+
+#headingGroup span {
+    color: #C0FDFB;
+}
+
+#mainNavbar.scrolled {
+    background-color: #C0FDFB;
+    transition: background 500ms;
+}
+
+@media (max-width: 1280px) {
+    #headingGroup h1 {
+        font-size: 2.5rem;
+    }
+    .blurb p {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 1024px) {
+    #headingGroup h1 {
+        font-size: 2rem;
+    }
+    .blurb p {
+        font-size: 1rem;
+    }
+}

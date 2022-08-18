@@ -7,7 +7,7 @@
 - [Section-13/Michigan-Rock-Museum](#) - Responsive page showing some interesting rocks to find in Michigan
 - [Section-19/todo-list](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-19/todo-list.html) - Impractical console todo list application
 
-### Exercises (only the exercises that have html files associated with them):
+### Exercises (only the exercises that have html files):
 - [Section-05/Race-Registration-Form](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-05/Race-Registration-Form.html)
 - [Section-07/basic-selectors](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-07/basic-selectors.html)
 - [Section-07/checkerboard](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-07/checkerboard.html)

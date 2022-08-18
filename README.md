@@ -5,7 +5,7 @@
 ### Projects:
 - [Section-11/pricing-panel](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-11/pricing-panel.html) - Responsive pricing panel using flexbox
 - [Section-13/Michigan-Rock-Museum](#) - Responsive page showing some interesting rocks to find in Michigan
-- [Section-19/todo-list](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-1/todo-list.html) - Impractical console todo list application
+- [Section-19/todo-list](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-19/todo-list.html) - Impractical console todo list application
 
 ### Exercises:
 - [Section-05/Race-Registration-Form](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-05/Race-Registration-Form.html)
@@ -17,7 +17,7 @@
 - [Section-09/hover-button](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-09/hover-button.html) 
 - [Section-09/photo-blog](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-09/photo-blog.html)
 - [Section-10/mediaqueries](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-10/mediaqueries.html)
-- [Section-19/guessing-game](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-1/guessing-game.html)
+- [Section-19/guessing-game](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-19/guessing-game.html)
 
 
 

@@ -1,6 +1,6 @@
 ## These are my own projects and practice exercises while working through a [web development bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) on Udemy
 
-### <ins>Links for each exercise and project</ins>
+### <ins>Links for projects and exercises (at least, exercises that include html files)</ins>
 
 ### Projects:
 - [Section-11/pricing-panel](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-11/pricing-panel.html) - Responsive pricing panel using flexbox

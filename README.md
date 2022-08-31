@@ -2,7 +2,7 @@
 
 ### <ins>Links for projects and exercises</ins>
 
-### Projects:
+### Section projects:
 
 -   [Section-11/pricing-panel](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-11/pricing-panel.html) - Responsive pricing panel using flexbox
 -   [Section-13/Michigan-Rock-Museum](#) - Responsive page showing some interesting rocks to find in Michigan

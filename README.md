@@ -7,7 +7,7 @@
 -   [Section-11/pricing-panel](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-11/pricing-panel.html) - Responsive pricing panel using flexbox
 -   [Section-13/Michigan-Rock-Museum](#) - Responsive page showing some interesting rocks to find in Michigan
 -   [Section-19/todo-list](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-19/todo-list.html) - Impractical console todo list application
--   [pokemon sprites](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/pokemon/index.html) - Populate a page with pokemon sprites via PokeAPI
+-   [Pokemon Sprites](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/pokemon/index.html) - Populate a page with pokemon sprites via PokeAPI
 -   [Ping Pong Scorekeeper](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/ScoreKeeper/scorekeeper.html) - Scorekeeping page for Ping Pong, built with Bulma
 
 ### Some of the many small exercises:

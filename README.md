@@ -3,21 +3,32 @@
 ### <ins>Links for projects and exercises</ins>
 
 ### Projects:
-- [Section-11/pricing-panel](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-11/pricing-panel.html) - Responsive pricing panel using flexbox
-- [Section-13/Michigan-Rock-Museum](#) - Responsive page showing some interesting rocks to find in Michigan
-- [Section-19/todo-list](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-19/todo-list.html) - Impractical console todo list application
+
+-   [Section-11/pricing-panel](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-11/pricing-panel.html) - Responsive pricing panel using flexbox
+-   [Section-13/Michigan-Rock-Museum](#) - Responsive page showing some interesting rocks to find in Michigan
+-   [Section-19/todo-list](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-19/todo-list.html) - Impractical console todo list application
+-   [pokemon sprites](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/pokemon/index.html) - demo to populate page with pokemon sprites via PokeAPI
+-   [Ping Pong Scorekeeper](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/ScoreKeeper/scorekeeper.html) - scoreboard for a ping pong game, built in Bulma
 
 ### Exercises (only the exercises that have html files):
-- [Section-05/Race-Registration-Form](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-05/Race-Registration-Form.html)
-- [Section-07/basic-selectors](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-07/basic-selectors.html)
-- [Section-07/checkerboard](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-07/checkerboard.html)
-- [Section-07/descendant-combinator](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-07/descendant-combinator.html)
-- [Section-07/hipster-logo](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-07/hipster-logo.html)
-- [Section-08/box-model](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-08/box-model.html)
-- [Section-09/hover-button](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-09/hover-button.html) 
-- [Section-09/photo-blog](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-09/photo-blog.html)
-- [Section-10/mediaqueries](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-10/mediaqueries.html)
-- [Section-19/guessing-game](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-19/guessing-game.html)
 
-
-
+-   [Section-05/Race-Registration-Form](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-05/Race-Registration-Form.html)
+-   [Section-07/basic-selectors](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-07/basic-selectors.html)
+-   [Section-07/checkerboard](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-07/checkerboard.html)
+-   [Section-07/descendant-combinator](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-07/descendant-combinator.html)
+-   [Section-07/hipster-logo](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-07/hipster-logo.html)
+-   [Section-08/box-model](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-08/box-model.html)
+-   [Section-09/hover-button](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-09/hover-button.html)
+-   [Section-09/photo-blog](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-09/photo-blog.html)
+-   [Section-10/mediaqueries](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-10/mediaqueries.html)
+-   [Section-19/guessing-game](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-19/guessing-game.html)
+-   [Section-24/exercise-52](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-24/exercise-52.html)
+-   [Section-24/exercise-53](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-24/exercise-53.html)
+-   [Section-24/exercise-54](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-24/exercise-54.html)
+-   [Section-24/exercise-55](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-24/exercise-55.html)
+-   [Section-25/change-and-input](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-25/change-and-input.html)
+-   [Section-25/eventsandthis](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-25/eventsandthis.html)
+-   [Section-25/exercise-60](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-25/exercise-60.html)
+-   [Section-25/exercise-61](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-25/exercise-61.html)
+-   [Section-25/exercise-62](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-25/exercise-62.html)
+-   [Section-25/random-color](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-25/random-color.html)

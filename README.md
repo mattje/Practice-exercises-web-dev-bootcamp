@@ -10,7 +10,7 @@
 -   [pokemon sprites](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/pokemon/index.html) - demo to populate page with pokemon sprites via PokeAPI
 -   [Ping Pong Scorekeeper](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/ScoreKeeper/scorekeeper.html) - scoreboard for a ping pong game, built in Bulma
 
-### Exercises (only the exercises that have html files):
+### Some of the many small exercises:
 
 -   [Section-05/Race-Registration-Form](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-05/Race-Registration-Form.html)
 -   [Section-07/basic-selectors](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-07/basic-selectors.html)

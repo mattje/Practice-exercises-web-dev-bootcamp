@@ -9,6 +9,7 @@
 -   [Section-19/todo-list](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-19/todo-list.html) - Impractical console todo list application
 -   [Pokemon Sprites](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/pokemon/index.html) - Populate a page with pokemon sprites via PokeAPI
 -   [Ping Pong Scorekeeper](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/ScoreKeeper/scorekeeper.html) - Scorekeeping page for Ping Pong, built with Bulma
+-   [Dad Jokes](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-28/dadjokes.html) - Click a button to get dad jokes from the icanhazdadjoke.com API
 
 ### Some of the many small exercises:
 
@@ -26,3 +27,4 @@
 -   [Section-25/grocery-list](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-25/exercise-61.html)
 -   [Section-25/live-text-input](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-25/exercise-62.html)
 -   [Section-25/random-color](https://mattje.github.io/Udemy-Web-Dev-Bootcamp/Section-25/random-color.html)
+
